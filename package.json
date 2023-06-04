@@ -1,0 +1,18 @@
+{
+  "name": "roa",
+  "version": "0.1.0",
+  "description": "A pleasant bot framework for modern bots, supporting bleeding-edge discord.js features.",
+  "scripts": {},
+  "keywords": [
+    "discord.js",
+    "framework",
+    "bots"
+  ],
+  "author": "LimeTeam Techonogies",
+  "license": "MIT",
+  "types": "build/index.d.ts",
+  "dependencies": {
+    "discord.js": "14.x",
+    "typescript": "^5.1.3"
+  }
+}

@@ -2,7 +2,10 @@
   "name": "roa",
   "version": "0.1.0",
   "description": "A pleasant bot framework for modern bots, supporting bleeding-edge discord.js features.",
-  "scripts": {},
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
   "keywords": [
     "discord.js",
     "framework",

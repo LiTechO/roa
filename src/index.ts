@@ -1,3 +1,1 @@
-export class Foo {
-  public bar: string = "foobar";
-};
+export { SlashCommand, SlashCommandOptions, SlashCommandArgument } from './slash';
